@@ -2,6 +2,7 @@
 
 ## Summary
 Here is a simple program for solving a particular integer linear programming problem.
+Use "pip install -r requirements.txt" to resolve all dependencies.
 
 ## Usage examples
 * python run.py -n 10 -m 10 -o out.json
